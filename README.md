@@ -10,4 +10,4 @@ You're working with surgeons and oncologists and countless other doctors and nur
 Chemo IVA is ready when you are, intuitive, accessible, and friendly. Store your data and share your story your way. Integrate with your providers' health record management systems.​
 
 # Winner "Best New App 20-forever"
-​Seriously, this app doesn't even exist yet. [Submit an issue or a pull request](https://github.com/solvaholic/chemo-iva) or [poke us on Twitter](https://twitter.com/chemoiva) to get involved and find out more.
+​Seriously, this app doesn't even exist yet. [Submit an issue or a pull request](https://github.com/solvaholic/chemoiva) or [poke us on Twitter](https://twitter.com/chemoiva) to get involved and find out more.
