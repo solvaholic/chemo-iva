@@ -88,9 +88,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-<!---
 Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for details on the process for submitting issues and pull requests to us.
--->
 
 Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about how we're expected to treat each other while working on this project.
 
